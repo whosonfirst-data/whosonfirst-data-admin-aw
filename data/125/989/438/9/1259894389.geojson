@@ -40,7 +40,7 @@
         "gn:id":3577060
     },
     "wof:country":"AW",
-    "wof:geomhash":"c3989f3507074793e3aa2814b2ce20e6",
+    "wof:geomhash":"bb1672a4decf221726b6f4ea2fcb8f95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,5 +65,5 @@
     -70.0,
     12.5
 ],
-  "geometry": {"coordinates":[-70.0,12.5],"type":"Point"}
+  "geometry": {"coordinates":[-70,12.5],"type":"Point"}
 }

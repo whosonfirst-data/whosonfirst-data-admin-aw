@@ -41,7 +41,7 @@
         "wk:page":"Marawiel"
     },
     "wof:country":"AW",
-    "wof:geomhash":"3ca20567b907dfacbc6fd5cadb368e67",
+    "wof:geomhash":"19b9e28558e9c775d28d885e060e5fac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -69.98333000000001,
     12.53333
 ],
-  "geometry": {"coordinates":[-69.98333000000001,12.53333],"type":"Point"}
+  "geometry": {"coordinates":[-69.98333,12.53333],"type":"Point"}
 }

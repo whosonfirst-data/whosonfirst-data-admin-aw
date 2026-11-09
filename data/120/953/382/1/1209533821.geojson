@@ -42,7 +42,7 @@
         "wk:page":"Parkietenbos"
     },
     "wof:country":"AW",
-    "wof:geomhash":"fc9b5ef8a63e3087807f5a6596fc98c6",
+    "wof:geomhash":"6cc809e3dd099dd32b9cbf64a262d857",
     "wof:hierarchy":[
         {
             "country_id":85632295,
@@ -65,5 +65,5 @@
     -69.98333000000001,
     12.48333
 ],
-  "geometry": {"coordinates":[-69.98333000000001,12.48333],"type":"Point"}
+  "geometry": {"coordinates":[-69.98333,12.48333],"type":"Point"}
 }

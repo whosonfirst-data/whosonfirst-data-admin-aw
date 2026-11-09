@@ -41,7 +41,7 @@
         "wk:page":"Catiri"
     },
     "wof:country":"AW",
-    "wof:geomhash":"2d5a5bfa59c1a6a1705236469e70c003",
+    "wof:geomhash":"c4df152f37faac4f765ac28300fa933b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,5 +66,5 @@
     -70.01666999999999,
     12.53333
 ],
-  "geometry": {"coordinates":[-70.01666999999999,12.53333],"type":"Point"}
+  "geometry": {"coordinates":[-70.01667,12.53333],"type":"Point"}
 }

@@ -65,7 +65,7 @@
         "wk:page":"Noord"
     },
     "wof:country":"AW",
-    "wof:geomhash":"0b2eae7413c99839a31104ff565483c0",
+    "wof:geomhash":"cd5b73763e8aa202222a844b0d057100",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -90,5 +90,5 @@
     -70.01666999999999,
     12.56667
 ],
-  "geometry": {"coordinates":[-70.01666999999999,12.56667],"type":"Point"}
+  "geometry": {"coordinates":[-70.01667,12.56667],"type":"Point"}
 }

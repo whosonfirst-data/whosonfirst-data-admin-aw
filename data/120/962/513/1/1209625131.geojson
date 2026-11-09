@@ -48,7 +48,7 @@
         "wk:page":"Cura_Cabai"
     },
     "wof:country":"AW",
-    "wof:geomhash":"2d15a13917558543da85ea5c0aeac193",
+    "wof:geomhash":"40225fc7d451295e8eedcfb30ae983f6",
     "wof:hierarchy":[
         {
             "country_id":85632295,
@@ -71,5 +71,5 @@
     -69.92978000000001,
     12.44202
 ],
-  "geometry": {"coordinates":[-69.92978000000001,12.44202],"type":"Point"}
+  "geometry": {"coordinates":[-69.92978,12.44202],"type":"Point"}
 }

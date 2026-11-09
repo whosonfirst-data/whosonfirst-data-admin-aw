@@ -53,7 +53,7 @@
         "wk:page":"Paradera"
     },
     "wof:country":"AW",
-    "wof:geomhash":"ed1190a849e01810a5a9facc4620d933",
+    "wof:geomhash":"7d6c4e5ff580ecfc34e8c1aafa8554c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,5 +78,5 @@
     -70.0,
     12.53333
 ],
-  "geometry": {"coordinates":[-70.0,12.53333],"type":"Point"}
+  "geometry": {"coordinates":[-70,12.53333],"type":"Point"}
 }

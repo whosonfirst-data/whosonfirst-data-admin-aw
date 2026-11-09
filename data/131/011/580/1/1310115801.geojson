@@ -52,7 +52,7 @@
         "gn:id":3577164
     },
     "wof:country":"AW",
-    "wof:geomhash":"5231cbefd0ae69de7cc6524b26473f84",
+    "wof:geomhash":"b52f749973da91a736369fd749bd2447",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,5 +77,5 @@
     -70.0,
     12.55
 ],
-  "geometry": {"coordinates":[-70.0,12.55],"type":"Point"}
+  "geometry": {"coordinates":[-70,12.55],"type":"Point"}
 }
