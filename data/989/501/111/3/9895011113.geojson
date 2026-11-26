@@ -1,0 +1,72 @@
+{
+  "id": 9895011113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.88684,12.44747,-69.88684,12.44747",
+    "geom:latitude":12.44747,
+    "geom:longitude":-69.88684,
+    "iso:country":"AW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11972016: name \"Sabana Serbete\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11972016"
+        },
+        {
+            "citation":"GeoNames populated place 11972016: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11972016"
+        },
+        {
+            "citation":"GeoNames populated place 11972016: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11972016"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85667489 (Aruba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632295,
+        85667489,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11972016
+    },
+    "wof:country":"AW",
+    "wof:geomhash":"94e943b7dbaad16ae65849735fecb607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632295,
+            "locality_id":9895011113,
+            "region_id":85667489
+        }
+    ],
+    "wof:id":9895011113,
+    "wof:lastmodified":1795735238,
+    "wof:name":"Sabana Serbete",
+    "wof:parent_id":85667489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-aw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.88684,
+    12.44747,
+    -69.88684,
+    12.44747
+],
+  "geometry": {"coordinates":[-69.88684,12.44747],"type":"Point"}
+}
